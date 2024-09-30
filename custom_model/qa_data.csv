@@ -1,0 +1,11 @@
+question,answer
+"What is AI?","Artificial Intelligence is the simulation of human intelligence in machines."
+"What is machine learning?","Machine Learning is a subset of AI that involves the use of algorithms to learn from data."
+"What are neural networks?","Neural networks are algorithms designed to recognize patterns in data."
+"What is supervised learning?","Supervised learning is a type of machine learning where the model is trained on labeled data."
+"What is unsupervised learning?","Unsupervised learning is a type of machine learning where the model is trained on unlabeled data to find hidden patterns."
+"What is reinforcement learning?","Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties."
+"How does a chatbot work?","A chatbot uses natural language processing and machine learning algorithms to understand and respond to user queries."
+"What is a neural network used for?","Neural networks are used for various tasks, including image recognition, natural language processing, and more."
+"What is deep learning?","Deep learning is a subset of machine learning that uses neural networks with many layers."
+"How do you evaluate a machine learning model?","Common evaluation metrics include accuracy, precision, recall, and F1 score."
